@@ -1,0 +1,4 @@
+org\tcc\gestao\normas\core\gestao\normas\ProcessoAuditoriaControllerTest.class
+org\tcc\gestao\normas\core\gestao\normas\ExecucaoAuditoriaControllerTest.class
+org\tcc\gestao\normas\core\gestao\normas\NormaControllerTest.class
+org\tcc\gestao\normas\core\TestUtils.class
